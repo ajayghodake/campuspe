@@ -1,16 +1,47 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# CampusPe – Frontend UI Replication
 
-Currently, two official plugins are available:
+## Project Overview
+This project is a frontend implementation of the CampusPe landing page based on the provided Figma design. The goal was to recreate the visual layout and implement a responsive user interface using React and Material UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
+https://campuspe-ajay.vercel.app/
 
-## React Compiler
+## GitHub Repository
+https://github.com/ajayghodake/campuspe
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
+- React
+- Vite
+- JavaScript
+- Material UI (MUI)
+- CSS
 
-## Expanding the ESLint configuration
+## Implementation
+- Created reusable React components.
+- Implemented the main landing page layout and navigation.
+- Worked on responsive styling for different screen sizes.
+- Added styling and interactive states to UI elements.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Run Locally
+
+Prerequisites: Node.js and npm.
+
+```bash
+git clone https://github.com/ajayghodake/campuspe.git
+cd campuspe
+npm install
+npm run dev
+```
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+## Deployment
+The project is hosted on Vercel, and the source code is available in the GitHub repository linked above.
+
+## Author
+Ajay Ghodake
