@@ -1,5 +1,5 @@
 
-# CampusPe – Frontend UI Replication
+# CampusPe – Frontend UI
 
 ## Project Overview
 This project is a frontend implementation of the CampusPe landing page based on the provided Figma design. The goal was to recreate the visual layout and implement a responsive user interface using React and Material UI.
